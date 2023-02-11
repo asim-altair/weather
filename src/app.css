@@ -1,0 +1,26 @@
+.App {
+  background-image: linear-gradient(to right, #ef6a4f, #a43e8e);
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  font-style: Verdana;
+}
+.container {
+  width: 300px;
+  height: 500px;
+  background-color: #334f71;
+  border-radius: 40px;
+}
+.time {
+  font-size: 2rem;
+}
+.font {
+  font-size: 10rem;
+}
+.temp {
+  font-size: 3rem;
+}
